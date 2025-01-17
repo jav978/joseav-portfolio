@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración
+.env
+*.local
+
+# Archivos generados
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+dist/
+build/
